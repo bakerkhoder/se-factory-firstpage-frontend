@@ -55,12 +55,17 @@
     cursor: pointer;
     
 }
-a{
+.a1{
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     font-weight: bold;
     
+}
+.a1-1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: white;
+        font-weight: bold;
 }
 .button2{
     display: flex;
@@ -118,4 +123,30 @@ h2{
  display: flex;
  justify-content: center;
  
+}
+.container3{
+    display: flex;
+    flex-flow: row;
+}
+.learnmore{
+    color: rgb(16, 224, 16);
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container3-1{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.container3-2{
+    padding-right: 50px;
+}
+.h1-3-1{
+ font-weight: bold;
+}
+.h1-3-2{
+    width: 80%;
+    font-weight: 300;
+}
+.h1-3-1-2{
+    font-weight: 500;
 }
